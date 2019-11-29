@@ -1,0 +1,10 @@
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\bin\Debug\PsychometricChartCalculations.exe.config
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\bin\Debug\PsychometricChartCalculations.exe
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\bin\Debug\PsychometricChartCalculations.pdb
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\obj\Debug\PsychometricChartCalculations.csprojAssemblyReference.cache
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\obj\Debug\PsychometricChartCalculations.Form1.resources
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\obj\Debug\PsychometricChartCalculations.Properties.Resources.resources
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\obj\Debug\PsychometricChartCalculations.csproj.GenerateResource.cache
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\obj\Debug\PsychometricChartCalculations.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\obj\Debug\PsychometricChartCalculations.exe
+C:\Users\gianc\Documents\Writing Code\PsychometricChartCalculations\PsychometricChartCalculations\obj\Debug\PsychometricChartCalculations.pdb
